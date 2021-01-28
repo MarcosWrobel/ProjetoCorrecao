@@ -37,5 +37,5 @@ https://app.swaggerhub.com/apis/MarcosWrobel/ProjetoCorrecao/1.0.0
 API REST desenvolvida em Node.js/Express 
 
 Para o uso da API é necessária conexão com o MongoDB
-Afim de testes foi utilizando um banco Atlas. 
+
 Os dados para conexão devem seguir o padrão de chave=valor do arquivo env.example.
